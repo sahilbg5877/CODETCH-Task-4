@@ -89,4 +89,3 @@ This project demonstrates a complete NLP-based sentiment analysis workflow inclu
 
 ---
 
-If you want, I can also **make a polished PDF version for your internship submission** exactly in this same format, ready to submit. Do you want me to do that?
